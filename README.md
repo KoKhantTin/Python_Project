@@ -10,7 +10,7 @@ Make sure you have Python installed on your machine. If not, you can download it
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/KoKhantTin/Python_Project/edit/main/
+git clone https://github.com/KoKhantTin/Python_Project
 ```
 ## Explore the Exercises
 Navigate to the exercises directory to find a collection of Python exercises for various skill levels. Each exercise comes with a detailed README to guide you.
